@@ -1,2 +1,5 @@
 ---
 name: zephyr-config
+build:
+  settings:
+    board_root: .
