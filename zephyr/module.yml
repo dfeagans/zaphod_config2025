@@ -1,0 +1,5 @@
+---
+name: zaphod-config
+build:
+  settings:
+    board_root: .
